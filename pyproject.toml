@@ -2,7 +2,7 @@
 name = "sentry-databricks"
 version = "0.3.1"
 description = ""
-repository = "https://github.com/DataSentics/sentry-databricks"
+repository = "https://github.com/bricksflow/sentry-databricks"
 
 license = "MIT"
 
